@@ -1,6 +1,6 @@
 # Skills
 * OSCP
-*Bug Bounty hunting
+* Bug Bounty hunting
 * Programming
 * Hack the box
 * Networking
