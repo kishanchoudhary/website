@@ -1,13 +1,13 @@
-# About me
+# About me:
 
 Hey there! 
 I'm Kishan Choudhary a Independent Security Researcher, Ethical Hacker, CTF player and Blogger, I spend most of my time on Researching, Bug Bounty$ hunting , CTF's.
 
-# Certfications
+# Certfications:
 * CEH (2018)
 * OSCP (2019)
 
-# Bug Bounty hunting
+# Bug Bounty hunting:
 * SSRF
 * RFI
 * LFI
@@ -19,7 +19,7 @@ I'm Kishan Choudhary a Independent Security Researcher, Ethical Hacker, CTF play
 * SSTI
 * CSRF
 
-# Profile 
+# Profile:
 [Facebook](https://www.facebook.com/kishangy).
 [Twitter](https://twitter.com/choudhary_1337).
 [Linkedin](https://www.linkedin.com/in/kishan-choudhary-b54126145/).
