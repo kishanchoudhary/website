@@ -2,5 +2,5 @@
 
 Hey there, qwack qwack!
 
-![](./offsec-logo.png	)
+![](offsec-logo.png	)
 
