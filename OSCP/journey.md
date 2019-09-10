@@ -12,7 +12,11 @@ So after of completion of my CEH on 05-NOV-2018 i planned for OSCP ,but the ques
 * do i have sufficient funds for it?
 
 worst case for me was to rise funds for this cert , well i was 18 years old with a job of security analyst in New Delhi India , it wasn't easy for me to rise quick 800$ or 1000$ there , so i took time studied stuffs from google , twitter , Medium GitHub , Stack Overflow etc . So after managing living in New Delhi after 3 months of Passed from the day of CEH completion
-so i lost my job due to some reasons i had no hopes that it would be possible for me to move on with survival so before leaving Delhi i attended the DEFCON 911 in Gurgaon  that was my last Hackers meet in Delhi so i met Teck_k2  (@Teck_k2) , Sarthak Saini (@sarthaksaini) these two people gave me the best advice what can i do , so they suggested me to start doing CTF's on HTB  , root-me , vulnhub so after spending my time at DEFCON and had nice talk with these two ultimate L33T's and got bit confidence to get my hands  on CTF's and do PE learn programming , so after DEFCON i came back to Bangalore , without job in the month of March so after all having a good background and experienced hands on Web application's Pentesting
+so i lost my job due to some reasons i had no hopes that it would be possible for me to move on with survival so before leaving Delhi i attended the DEFCON 911 in Gurgaon  that was my last Hackers meet in Delhi so i met Teck_k2  (@Teck_k2) , Sarthak Saini (@sarthaksaini) these two people gave me the best advice what can i do , so they suggested me to start doing CTF's on HTB  , root-me , vulnhub.
+
+![](friends.gif )
+
+so after spending my time at DEFCON and had nice talk with these two ultimate L33T's and got bit confidence to get my hands  on CTF's and do PE learn programming , so after DEFCON i came back to Bangalore , without job in the month of March so after all having a good background and experienced hands on Web application's Pentesting
 i started  to do bug bounty hunting on Bugcrowd to rise funds for my OSCP cert that was the last option i had after 14 days with 40+ duplicates i got my first bounty of Bugcrowd for referrer based XSS got $100 yay!!
   
 ![](happy.gif )
@@ -47,7 +51,7 @@ After surviving 1 st week i took a complete rest for 1 day where i just had to c
 i faced some really tough machines where i spent a whole day scratching my head to figure out the privilege escalation parts i really got Goosebumps on few machines but still staying strong on my will i googled read some stuffs from very basic so finally in second week it was bit bad i was able to complete 13 machines  almost but this week was huge nightmare where i fell sick and was suffering from cold and fever , but offsec song never let me sleep peacefully, always on my mind "TRY HARDER!!"  ..
  so after all in 15 days i was able to complete 31 machines.
   
-![](happy.gif )
+![](tired.gif )
 
 # Third week 
 
