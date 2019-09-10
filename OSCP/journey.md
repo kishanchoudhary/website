@@ -29,7 +29,7 @@ so my friend Steven and sarthak told me apply for OSCP, on july 25 2019 i was bi
 	* complete the videos if your new 
 	* Do all the exercises which are in PWK.pdf 
 
-# first week of lab
+# First week
 
  i spent one day reading the pwk.pdf it really loved it and gave me bit confidence also to face the upcoming nightmare , but the real nightmare was to adjust my regular job and OSCP labs , pfft!! it seemed to be more harder than it was, but happiness is when you have best supporting team & colleagues and my manager helped me in their level best so i was comfortable with my office desktop i continued to do my labs in my personal space in the company with 0% distraction or disturbance from others so first week completed 18 machines stayed up day and night .
  
