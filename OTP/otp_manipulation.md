@@ -10,14 +10,14 @@ so first i i requested otp on 9876543210
 ![](1.png)
 
 
- intercepted the request in Burpsuite and changed the number to *********6
+ Intercepted the request in Burpsuite and changed the number to *********6
  and forwarded the request
 
 * initial request
 
 ![](2.png)
 
-* modified request 
+* Modified request 
 
 ![](3.png)
 
@@ -29,11 +29,11 @@ A otp was received on my actual number *********6
 
 ![](5.png)
 
- After i have entered the above OTP and clicked verify
+ After i have entered the above OTP and clicked verify code
 
 ![](6.png)
 
-i was able to verify the number which didn't belong to me :D
+I was able to verify the number which didn't belong to me :D
 
 ![](7.png)
 
