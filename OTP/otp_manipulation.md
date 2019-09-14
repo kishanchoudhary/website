@@ -1,6 +1,6 @@
 # OTP Manipulation:
 <br>
-Hey there learners , so recently i found i got a invitation for a private program on Bugcrowd so after spending 30 mins of recon i found that i was able to redirect the OTP from victim number to the attacker so instead of going into theory lets just jump in :D </br>
+Hey there learners , so recently i found i got a invitation for a private program on Bugcrowd so after spending 30 mins of recon i found that i was able to redirect the OTP from victim number to the attacker so instead of going into theory lets just jump in :D
 
 So here i used:
 my real number : *********6
