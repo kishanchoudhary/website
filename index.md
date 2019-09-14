@@ -2,3 +2,4 @@
 
 [Bugbounty to OSCP](./OSCP/journey.html).
 
+[OTP manipulation](./OTP/otp_manipulation.html).
