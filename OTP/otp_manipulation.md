@@ -1,4 +1,4 @@
-# OTP Manipulation
+# OTP Manipulation:
 <br>
 Hey there learners , so recently i found i got a invitation for a private program on Bugcrowd so after spending 30 mins of recon i found that i was able to redirect the OTP from victim number to the attacker so instead of going into theory lets just jump in :D </br>
 
@@ -39,7 +39,7 @@ i was able to verify the number which didn't belong to me :D
 
 
 
-conclusion:
+# conclusion:
 
 so what exactly i did here was the OTP which was supposed to be sent on 9876543210 , instead it was sent on my *********6 , due to lack of validation as it was only validating on the client side 
 
