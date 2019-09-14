@@ -5,6 +5,7 @@ Hey there learners , so recently i found i got a invitation for a private progra
 So here i used:
 my real number : *********6
 fake number : 9876543210 
+
 so first i i requested otp on 9876543210 
 
 ![](1.png)
