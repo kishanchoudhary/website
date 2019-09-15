@@ -44,4 +44,6 @@ I was able to verify the number which didn't belong to me :D
 
 so what exactly i did here was the OTP which was supposed to be sent on 9876543210 , instead it was sent on my *********6 , due to lack of validation as it was only validating on the client side 
 
+Bounty : $300
+
 i hope you enjoyed it :D
