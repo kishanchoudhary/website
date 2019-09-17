@@ -6,7 +6,7 @@ First on the bottom left i found this tiny little option
 
 ![](1.png)
 
-i clicked on it it generated a short link for the report i quickly sent it to burpsuite for analyzing 
+I clicked on it, it generated a short link for the report i quickly sent it to burpsuite for analyzing 
 
 ![](2.png)
 
@@ -19,15 +19,15 @@ I quickly changed the url to https://evil.com in post request and got a another 
 
 ![](4.png)
  
-so i combined it with https://example.com/s/*"evil hash from response"*
+So i combined it with https://example.com/s/*"evil hash from response"*
 
 ![](5.png)
 
-i opened it in other browser i was taken to the login page  :\
+I opened it in other browser i was taken to the login page  :\
 
 ![](6.png)
 
-once i logged in to my account BOOM!! I was redirected to evil.com
+Once i logged in to my account BOOM!! I was redirected to evil.com
 
 ![](7.png)
 
