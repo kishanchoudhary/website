@@ -20,6 +20,7 @@ I quickly changed the url to https://evil.com in post request and got a another 
 ![](4.png)
  
 So i combined it with https://example.com/s/*"evil hash from response"*
+Ex: https://example.com/s/1Wk2fN
 
 ![](5.png)
 
