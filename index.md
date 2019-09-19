@@ -6,4 +6,5 @@
 
 [2FA BYPASS](./2fa/bypass.html).
 
+[Open Redirect](./open_redirect/redirect.html).
 
