@@ -17,7 +17,7 @@ which has 2 files php.js and log.php.bak
 
 ![](1.png)
  
-![](2 .png)
+![](2.png)
 
 that's what php.js does 
 
