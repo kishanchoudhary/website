@@ -15,9 +15,9 @@ Lets just get onto the challenge.
 After running gobuster for few minutes i found a directory named /scriptz/ 
 which has 2 files php.js and log.php.bak
 
-1. png here
+![](1.png)
  
-2.png
+![](2.png)
 
 that's what php.js does 
 
@@ -58,7 +58,7 @@ class Log
 ?>
 ```
 
-We can see in the above class Log() we have a public variable called $filename and $data whereas filename="whatever you like" and data = "whatever you want to put in your file" 
+We can see in the above class Log() we have a public variable called $filename  and  $data whereas filename="whatever you like" and data = "whatever you want to put in your file" 
 
 So now we have a to create a object for class Log() and serialize the output 
 
