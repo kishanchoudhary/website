@@ -107,7 +107,7 @@ After ending the exam I was so happy that I couldn't control myself and I was  i
 
 Offsec provides its own official report template for reporting, your report must contain all the steps and all the steps should be explained clearly with appropriate screenshot and details.
 
-For more information: https://support.offensive-security.com/oswe-exam-guide/
+For more information: [https://support.offensive-security.com/oswe-exam-guide/](https://support.offensive-security.com/oswe-exam-guide/)
 
 
 ## Achievements 
