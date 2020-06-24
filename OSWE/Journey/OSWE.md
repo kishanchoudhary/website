@@ -1,5 +1,6 @@
 
 
+
 # BugBounty to OSWE (Conquering The Fear Of Failure)
 
 _“*Just because you got failure doesn't mean you can't succeed!*”_ 
@@ -7,58 +8,74 @@ _“*Just because you got failure doesn't mean you can't succeed!*”_
 
 **Hey There**
 
-As I have promised everybody that I will be sharing my experience of OSWE certification,  Firstly if you want to achieve this certification you must be handy with this book "**The Web Application Hacker's Handbook: Finding and Exploiting Security Fl**" else you won't understand what the course is for.
+As I have promised everybody that I will be sharing my experience of OSWE certification,  Firstly if you want to achieve this certification you must be handy with this book "**The Web Application Hacker's Handbook: Finding and Exploiting Security FLAWS**" else you won't understand what the course is for.
 
 
 ## Before taking the Course.
 
 ***Resources:*** 
 -
+
 `Hackers Handbook`
 -
-- http://index-of.es/EBooks/11_TheWeb%20Application%20Hackers%20Handbook.pdf
+- [http://index-of.es/EBooks/11_TheWeb%20Application%20Hackers%20Handbook.pdf](http://index-of.es/EBooks/11_TheWeb%20Application%20Hackers%20Handbook.pdf)
 	
  `Javascript for Pentesters`
 -
-- https://www.pentesteracademy.com/course?id=11 
+- [https://www.pentesteracademy.com/course?id=11](https://www.pentesteracademy.com/course?id=11)
 
  `Java Deserialization `	
 -
-- https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/ 
-
-- https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
-
-- https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/
+- [https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/](https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/)
+- [https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/](https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/)
 
 `SQL injections`
 - 
-- https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf (Thank me later for this :D )
+- [https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf](https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf)(Thank me later for this :D )
 
-- https://www.sqlinjection.net/time-based/
+- [https://www.sqlinjection.net/time-based/](https://www.sqlinjection.net/time-based/)
 
 `Type Juggling`
 -
-- https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
+- [https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf](https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf)
 
-- https://www.blackhat.com/presentations/bh-usa-07/Morin/Whitepaper/bh-usa-07-morin-WP.pdf
+-[https://www.blackhat.com/presentations/bh-usa-07/Morin/Whitepaper/bh-usa-07-morin-WP.pdf](https://www.blackhat.com/presentations/bh-usa-07/Morin/Whitepaper/bh-usa-07-morin-WP.pdf)
 
  
  `Challenges`
 -
-- https://www.vulnhub.com/entry/devrandom-pipe,124/ (Php Deserialization)
-- https://edabit.com/ (Javascript, Java, PHP)
-- https://sarthaksaini.com/2019/awae/xss-rce.html (Must practice)
-- http://leettime.net/sqlninja.com/tasks/delay_ch4.php
+- [https://www.vulnhub.com/entry/devrandom-pipe,124/](https://www.vulnhub.com/entry/devrandom-pipe,124/) (Php Deserialization)
+- [https://edabit.com/](https://edabit.com/) (Javascript, Java, PHP)
+- [https://sarthaksaini.com/2019/awae/xss-rce.html](https://sarthaksaini.com/2019/awae/xss-rce.html)(Must practice)
+- [http://leettime.net/sqlninja.com/tasks/delay_ch4.php](http://leettime.net/sqlninja.com/tasks/delay_ch4.php)
 
+
+ `Python`
+-
+- [https://requests.readthedocs.io/en/master/](https://requests.readthedocs.io/en/master/)
+- [https://www.tutorialspoint.com/python3/index.htm](https://www.tutorialspoint.com/python3/index.htm)
 
 These are some important resources to practice  before buying the course. Try to spend more time mastering these Vulnerabilities and exercises. 
 
 # My Journey
 
-I bought this course on 29 December 2019 was lucky enough and got this course for 1000$, The only bounty which I got in December 2019. If I speak about bug bounty I do bug bounty every alternative day and when I do I go for straight wide scope targets. So I lost my job on November 28, 2019 . and then I planned for OSWE,  But I had no $$ and didn't get paid by salary too and it was also a bit difficult to pay my bills and keep everything smooth. so in December working on both was a bit difficult but yeah its a good practice to keep a time table of work, and **do bug-bounty in silent place to focus on the target**, so I prefer bug-bounty at late nights with a cup of coffee.  I took a challenge to earn 1000$ in 20 days.  but yeah I was looking for higher severity bugs. spent a week got none but a few P4 triaged. So I planned "Why don't I focus on 10 P4 bugs " to reach the target. its the same effort reporting 10 bugs with an easy methodology or spending a lot of time looking for P1 or P2. so I reported around 22 bugs, Out of 22 12 Triaged rest marked as NA, Duplicate, Won't fix. well, that was easy with less effort and less time in 2 weeks got 1200$ and also been practicing on the Resources which I have provided at the beginning of the blog. I paid and got my labs started on 29 December 2019, There were totally 5 machines in the lab, at first, I thought it's easy but it was not as I expected I spent 3 days watching videos and reading the pdf it was harder than I expected it was completely on reading source code and triggering the bug. PFFT holy hell this is some next-level thing, I knew only basic programming on python3. I was a lot nervous and did approach the lab slowly spending time on it and learning python along with labs, I was getting harder and harder day by day. I started spending more than 12 hours a day on lab and 5-6 hours on python. spending 16-18 hours on this course was really tough. once I thought I need more experience and wanted to quit but, I spent 1000$ I don't wanna waste it that way by giving up. So I took a break for a day and met my friends and told him how hard it is to work on front and backend as well its not like bug-bounty web, its a whole like a developer + pentester on steroids using all kinda debugging stuff,  My friend's response was simple "TRY HARDER", "Go Hard Else Go Home ". He pissed me off but yeah he was right. I finished my first machine in 4 days with Extra miles.
- 
+I bought this course on 29 December 2019 was lucky enough and got this course for 1000$, The only bounty which I got in December 2019. If I speak about bug bounty I do bug bounty every alternative day and when I do I go for straight wide scope targets. So I lost my job on November 28, 2019 . and then I planned for OSWE,  But I had no $$ and didn't get paid by salary too and it was also a bit difficult to pay my bills and keep everything smooth. so in December working on both was a bit difficult but yeah its a good practice to keep a time table of work, and **do bug-bounty in silent place to focus on the target**, so I prefer bug-bounty at late nights with a cup of coffee. 
 
-I moved to the 2nd machine which was also a PHP machine,  this was one of my favorite machines in the lab I enjoyed learning type juggling and Blind SQLI. holy moly I would never get to learn these things on the internet that easy, I finished this machine in 3-4 days.  10 days of my labs completed 2 machines. But life had other problems as I've been busy on labs also I had no source for income I planned to finish the next nodejs machine and will go for bug hunting for some time, This machine was a fortune for me. after completing this machine I felt a strong from inside as I learned to bypass safe eval :D,  18 days completed 3 machines.  it was harder than my expectations and far beyond my current skillset, I took a break for a day and was chilling out with my buddies, but still worried about the 2 last machines and nearly 11 days left I was worried a lot, and then I continued with my next machine, Oh god it was a nightmare JAVA machine. I hated java from the very beginning as I never understood a java code the bug was quite simple Postgre SQL injection but the source code was huge, I spent 3 days just scrolling and trying to understand what was happening in the code. I had less time but I tried my best to complete it as instructed in course.  The last machine made me go crazy I was soo pissed at offsec yelling "How can they expect someone to look for a bug in such a huge code base which has nearly 1000 lines ". But damn I could only solve as it was instructed by the lab video instructor. 
+coffee.gif
+
+ I took a challenge to earn 1000$ in 20 days.  but yeah I was looking for higher severity bugs. spent a week got none but a few P4 triaged. So I planned "Why don't I focus on 10 P4 bugs " to reach the target. its the same effort reporting 10 bugs with an easy methodology or spending a lot of time looking for P1 or P2. so I reported around 22 bugs, Out of 22 12 Triaged rest marked as NA, Duplicate, Won't fix. well, that was easy with less effort and less time in 2 weeks got 1200$ and also been practicing on the Resources which I have provided at the beginning of the blog. I paid and got my labs started on 29 December 2019, There were totally 5 machines in the lab, at first, I thought it's easy but it was not as I expected I spent 3 days watching videos and reading the pdf it was harder than I expected it was completely on reading source code and triggering the bug. PFFT holy hell this is some next-level thing, I knew only basic programming on python3. 
+
+Nervous.gif
+
+I was a lot nervous and did approach the lab slowly spending time on it and learning python along with labs, I was getting harder and harder day by day. I started spending more than 12 hours a day on lab and 5-6 hours on python. spending 16-18 hours on this course was really tough. once I thought I need more experience and wanted to quit but, I spent 1000$ I don't wanna waste it that way by giving up. So I took a break for a day and met my friends and told him how hard it is to work on front and backend as well its not like bug-bounty web, its a whole like a developer + pentester on steroids using all kinda debugging stuff,  My friend's response was simple "TRY HARDER", "Go Hard Else Go Home ". He pissed me off but yeah he was right. I finished my first machine in 4 days with Extra miles.
+
+Exhausted GIF 
+
+I moved to the 2nd machine which was also a PHP machine,  this was one of my favorite machines in the lab I enjoyed learning type juggling and Blind SQLI. holy moly I would never get to learn these things on the internet that easy, I finished this machine in 3-4 days.  10 days of my labs completed 2 machines. But life had other problems as I've been busy on labs also I had no source for income I planned to finish the next nodejs machine and will go for bug hunting for some time, This machine was a fortune for me. after completing this machine I felt a strong from inside as I learned to bypass safe eval :D,  18 days completed 3 machines.  it was harder than my expectations and far beyond my current skillset, I took a break for a day and was chilling out with my buddies, but still worried about the 2 last machines and nearly 11 days left I was worried a lot, and then I continued with my next machine, Oh god it was a nightmare JAVA machine. I hated java from the very beginning as I never understood a java code the bug was quite simple Postgre SQL injection but the source code was huge, I spent 3 days just scrolling and trying to understand what was happening in the code. I had less time but I tried my best to complete it as instructed in course. 
+
+crazy,gif
+
+ The last machine made me go crazy I was soo pissed at offsec yelling "How can they expect someone to look for a bug in such a huge code base which has nearly 1000 lines ". But damn I could only solve as it was instructed by the lab video instructor. 
 
 
 ## First Exam attempt 
