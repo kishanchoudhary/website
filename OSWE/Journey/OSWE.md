@@ -15,7 +15,7 @@ As I have promised everybody that I will be sharing my experience of OSWE certif
 
 `Hackers Handbook`
 -
-- [http://index-of.es/EBooks/11_TheWeb%20Application%20Hackers%20Handbook.pdf](http://index-of.es/EBooks/11_TheWeb%20Application%20Hackers%20Handbook.pdf)
+- [https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
 	
  `Javascript for Pentesters`
 -
