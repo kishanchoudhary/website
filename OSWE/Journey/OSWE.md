@@ -79,19 +79,20 @@ I moved to the 2nd machine which was also a PHP machine,  this was one of my fav
 
 On Feb 14, 2020, I gave my first exam attempt, I was really very nervous about the exam and I couldn't sleep well because I was tensed a lot. my exam started around the morning at 3:30 Am. I started with the first machine exploited the first stage and I thought the exam machine could be easy as I spent hours on exploiting auth bypass it was bit tricky but yeah it was a good experience as I was able to obtain 35 points after spending nearly 12-15 hours moved forward to achieve Remote code execution, But thanks to the hard practice on labs I was able to achieve RCE and I took me almost a day to finish the first machine. Moved to 2nd machine It was the worst of worst, Huge source code and I had no idea where to look for the bug I felt very low but still I tried to look for something and did spend like 3-4 hours just scrolling at the code and I couldn't make it on first because i didn't have enough skills to take down the machine and I gave and told the Procter to end my exam :(. I failed my first attempt, This put me in depression for a week.  I tried tackling and did bug-bounty in march with what all I learned in OSWE labs and first exam experience but yeah if you work hard the whole base is your I spent a week on synack and my first bug was accepted :D and same I earned another 2600$ from bug crowd. Whatever i learned in OSWE was not a failure.
 
-![](failure.gif )
+![](failure 1.gif )
 
 
 ## Second Attempt
 
 On April 9, 2020, After a month of the first failure,  I traveled to Dehradun to meet my Infosec buddies and I paid the retake and it was my bad idea to schedule the exam in the place where there is no stable internet, A big mistake and also the exam machine was different it went insane on another level of insanity, at least i was able to dot after a lot of efforts was able to score 35 points but bad internet kept my proctor tab crashing and I was using my old laptop which was pretty crashing on running multiple tasks, again after spending 14 hours I gave up on my second attempt. I started to feel too low and I was on an edge to give up and leave this as I thought its beyond abilities, Depression didn't leave me alone I was quite depressed for weeks, I started hating myself and was very pissed and I did nothing for 2-3 weeks. But still, I didn't want to give up.
 
-![](failure2.gif )
+![](failure 2.gif )
 
 ## Giving Up was not an option.
 
 So at the end of April, i took advice from one of my senior friends, "how can I pass this exam this is worst than anything" his answer was simple "Try Harder" work on those skills Where you lack a lot, concentrate on your weakness and sharpen them. So I took a month challenge, I started python, java, PHP, and js. I didn't master these but I practiced a bit basic and up to the level of understanding the code. I started to practice day and night, I could see my eyes where totally dark and also I was curious about the vulnerability in the exam, which didn't let me sleep and thanks to my friend who helped me and motivated me on this journey, one month no excuses just one thing on my mind "TRY HARDER" its a CTF its meant to be vulnerable, I had a pretty good time spending COVID-19 Lockdown at a friends place in north India. 
 
+![](never.gif )
 
 ## The Third Attempt ("GO HARD ELSE GO HOME")
 
