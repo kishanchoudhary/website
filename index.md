@@ -1,6 +1,8 @@
 # Welcome to my blog site
 
-[Bugbounty to OSCP](./OSCP/journey.html).
+[BugBounty To OSCP](./OSCP/journey.html).
+
+[BugBounty To OSWE](./OSWE/Journey/OSWE.html).
 
 [OTP manipulation](./OTP/otp_manipulation.html).
 
