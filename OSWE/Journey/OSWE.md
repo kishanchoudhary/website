@@ -51,7 +51,7 @@ As I have promised everybody that I will be sharing my experience of OSWE certif
 - http://leettime.net/sqlninja.com/tasks/delay_ch4.php
 
 
-These are some important to know before buying the course. and try to spend more time mastering these Vulnerabilities and exercises. 
+These are some important resources to practice  before buying the course. Try to spend more time mastering these Vulnerabilities and exercises. 
 
 # My Journey
 
