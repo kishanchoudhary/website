@@ -6,6 +6,7 @@ I'm Kishan Choudhary a Independent Security Researcher, Ethical Hacker, CTF play
 # Certfications:
 * CEH (2018)
 * OSCP (2019)
+* OSWE (2020)
 
 # Bug Bounty hunting:
 * SSRF
